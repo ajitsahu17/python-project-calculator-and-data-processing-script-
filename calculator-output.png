@@ -1,0 +1,44 @@
+================================
+ PYTHON MINI PROJECT
+ Calculator & Data Processing
+================================
+
+1. Calculator
+2. Data Processing
+3. Exit
+
+Enter your choice: 1
+
+===== CALCULATOR =====
+Enter first number: 25
+Enter second number: 5
+
+Select Operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Modulus
+6. Power
+
+Enter your choice: 3
+Result: 125.0
+
+EXAMPLE
+
+Enter your choice: 1
+
+===== CALCULATOR =====
+Enter first number: 100
+Enter second number: 4
+
+Select Operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Modulus
+6. Power
+
+Enter your choice: 4
+Result: 25.0
