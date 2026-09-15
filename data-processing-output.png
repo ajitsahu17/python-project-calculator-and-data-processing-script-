@@ -1,0 +1,31 @@
+================================
+ PYTHON MINI PROJECT
+ Calculator & Data Processing
+================================
+
+1. Calculator
+2. Data Processing
+3. Exit
+
+Enter your choice: 2
+
+===== DATA PROCESSING =====
+
+Enter student name: Ajit
+
+Enter marks for 5 subjects:
+Enter marks for subject 1: 85
+Enter marks for subject 2: 78
+Enter marks for subject 3: 92
+Enter marks for subject 4: 75
+Enter marks for subject 5: 88
+
+===== STUDENT REPORT =====
+Student Name: Ajit
+Marks: [85.0, 78.0, 92.0, 75.0, 88.0]
+Total Marks: 418.0
+Average: 83.6
+Highest Marks: 92.0
+Lowest Marks: 75.0
+Grade: A
+Result: PASS
